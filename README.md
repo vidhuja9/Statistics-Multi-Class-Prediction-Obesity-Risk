@@ -7,6 +7,9 @@ using **statistical and probability-based analysis** on population data.
 Obesity risk is classified into multiple categories such as **Underweight,
 Normal Weight, Overweight, and Obesity (Type I, II, III)** using descriptive
 and inferential statistical techniques.
+
+<img width="297" height="459" alt="image" src="https://github.com/user-attachments/assets/385a425b-e613-491c-b491-aea51f8f1e78" />
+
 ## **Aim of the Study**
 To analyze population-level data and determine how **lifestyle, demographic,
 and health-related factors** influence obesity risk using **statistical methods**.
